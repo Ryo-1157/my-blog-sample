@@ -20,3 +20,4 @@
 6. Let's coading!
 7. git remote set-url origin {your repository name}
 # my-blog-sample
+# my-blog-sample
