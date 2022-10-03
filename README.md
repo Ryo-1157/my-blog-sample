@@ -14,7 +14,7 @@
 
 1. clone this repository
 2. yarn add or npm install
-3. mv blog {your project name}
+3. mv nextjs-mantine-ts-tailwind-template {your project name}
 4. cd {your project name}
 5. npm run dev
 6. Let's coading!
