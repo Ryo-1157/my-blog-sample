@@ -19,3 +19,4 @@
 5. npm run dev
 6. Let's coading!
 7. git remote set-url origin {your repository name}
+# my-blog-app
